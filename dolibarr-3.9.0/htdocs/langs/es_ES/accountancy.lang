@@ -1,0 +1,179 @@
+# Dolibarr language file - en_US - Accounting Expert
+ACCOUNTING_EXPORT_SEPARATORCSV=Separador de columnas en el archivo de exportación
+ACCOUNTING_EXPORT_DATE=Formato de fecha en el archivo de exportación
+ACCOUNTING_EXPORT_PIECE=Exportar el número de asiento
+ACCOUNTING_EXPORT_GLOBAL_ACCOUNT=Exportar con la cuenta global
+ACCOUNTING_EXPORT_LABEL=Exportar la etiqueta
+ACCOUNTING_EXPORT_AMOUNT=Exportar el importe
+ACCOUNTING_EXPORT_DEVISE=Exportar la divisa
+Selectformat=Seleccione el formato del archivo
+ACCOUNTING_EXPORT_PREFIX_SPEC=Especifique el prefijo del nombre de archivo
+
+Accounting=Contabilidad
+Globalparameters=Configuración global
+Menuaccount=Cuentas contables
+Menuthirdpartyaccount=Cuentas de terceros
+MenuTools=Utilidades
+
+ConfigAccountingExpert=Configuración del módulo contable
+Journaux=Diarios
+JournalFinancial=Diarios financieros
+Exports=Exportaciones
+Export=Exportar
+Modelcsv=Modelo de exportación
+OptionsDeactivatedForThisExportModel=Las opciones están desactivadas para este modelo de exportación
+Selectmodelcsv=Seleccione un modelo de exportación
+Modelcsv_normal=Exportación clásica
+Modelcsv_CEGID=Exportar a Cegid Expert
+BackToChartofaccounts=Volver al plan contable
+
+Definechartofaccounts=Definir plan contable
+Selectchartofaccounts=Seleccione un plan contable
+Addanaccount=Añadir una cuenta contable
+AccountAccounting=Cuenta contable
+AccountAccountingSuggest=Accounting account suggest
+Ventilation=Contabilizar
+
+MenuAccountancy=Contabilidad
+CustomersVentilation=Contabilizar clientes
+SuppliersVentilation=Contabilizar proveedores
+TradeMargin=Margen de beneficio
+Reports=Informes
+ByCustomerInvoice=Por facturas a clientes
+NewAccount=Nueva cuenta contable
+Create=Crear
+CreateMvts=Crear movimiento
+UpdateAccount=Modificar una cuenta contable
+UpdateMvts=Modificar un movimiento
+WriteBookKeeping=Registrar los asientos en el libro mayor
+Bookkeeping=Libro Mayor
+AccountBalance=Saldo de la cuenta
+
+AccountingVentilation=Descuadre contabilidad
+AccountingVentilationSupplier=Contablilización compras
+AccountingVentilationCustomer=Contabilización ventas
+
+CAHTF=Total purchase supplier before tax
+InvoiceLines=Líneas de factura para contabilizar
+InvoiceLinesDone=Líneas de facturas contabilizadas
+IntoAccount=Contabilizar en la cuenta
+
+Ventilate=Contabilizar
+VentilationAuto=Contabilización automática
+
+Processing=Tratamiento
+EndProcessing=Final del tratamiento
+AnyLineVentilate=No hay líneas para contabilizar
+SelectedLines=Líneas seleccionadas
+Lineofinvoice=Línea de la factura
+VentilatedinAccount=Contabilizada con éxito en la cuenta contable
+NotVentilatedinAccount=Cuenta sin contabilizar en la contabilidad
+
+ACCOUNTING_SEPARATORCSV=Separador de columnas en el archivo de exportación
+
+ACCOUNTING_LIMIT_LIST_VENTILATION=Número de elementos a contabilizar que se muestran por página (máximo recomendado: 50)
+ACCOUNTING_LIST_SORT_VENTILATION_TODO=Ordenar las páginas de contabilización "A contabilizar" por los elementos más recientes
+ACCOUNTING_LIST_SORT_VENTILATION_DONE=Ordenar las páginas de contabilización "Contabilizadas" por los elementos más recientes
+
+AccountLength=Longitud de las cuentas contables mostradas en Dolibarr
+AccountLengthDesc=Función para simular una longitud de cuenta contable sustituyendo los espacios por cero. Esta función sólo afecta a la pantalla, no cambia las cuentas contables registradas en Dolibarr. Esta función es necesaria para la exportación, para ser compatible con algunos programas.
+ACCOUNTING_LENGTH_DESCRIPTION=Longitud para la visualización de productos y servicios en los listados (Ideal = 50)
+ACCOUNTING_LENGTH_DESCRIPTION_ACCOUNT=Longitud para la visualización de la descripción de productos y servicios en los listados (Ideal = 50)
+ACCOUNTING_LENGTH_GACCOUNT=Longitud de las cuentas generales
+ACCOUNTING_LENGTH_AACCOUNT=Longitud de las subcuentas
+
+ACCOUNTING_SELL_JOURNAL=Diario de ventas
+ACCOUNTING_PURCHASE_JOURNAL=Diario de compras
+ACCOUNTING_MISCELLANEOUS_JOURNAL=Diario de operaciones diversas
+ACCOUNTING_EXPENSEREPORT_JOURNAL=Informe de gastos diario
+ACCOUNTING_SOCIAL_JOURNAL=Diario social
+
+ACCOUNTING_ACCOUNT_TRANSFER_CASH=Cuenta de caja
+ACCOUNTING_ACCOUNT_SUSPENSE=Cuenta operaciones pendientes de asignar
+
+ACCOUNTING_PRODUCT_BUY_ACCOUNT=Cuenta contable predeterminada para los productos comprados (si no se define en el producto)
+ACCOUNTING_PRODUCT_SOLD_ACCOUNT=Cuenta contable predeterminada para los productos vendidos (si no se define en el producto)
+ACCOUNTING_SERVICE_BUY_ACCOUNT=Cuenta contable predeterminada para los servicios comprados (si no se define en el servicio)
+ACCOUNTING_SERVICE_SOLD_ACCOUNT=Cuenta contable predeterminada para los servicios vendidos (si no se define en el servicio)
+
+Doctype=Tipo de documento
+Docdate=Fecha
+Docref=Referencia
+Numerocompte=Cuenta
+Code_tiers=Tercero
+Labelcompte=Descripción
+Sens=Sentido
+Codejournal=Diario
+NumPiece=Apunte
+
+DelBookKeeping=Eliminar los registros del Diario Mayor
+
+DescSellsJournal=Diario de ventas
+DescPurchasesJournal=Diario de compras
+FinanceJournal=Diario financiero
+DescFinanceJournal=El diario financiero incluye todos los tipos de pagos por cuenta bancaria
+
+CashPayment=Pago en efectivo
+
+SupplierInvoicePayment=Pago de factura de proveedor
+CustomerInvoicePayment=Cobro de factura a cliente
+
+ThirdPartyAccount=Cuenta de tercero
+
+NewAccountingMvt=Nuevo movimiento
+NumMvts=Número del movimiento
+ListeMvts=Listado del movimiento
+ErrorDebitCredit=Debe y Haber no pueden contener un valor al mismo tiempo
+
+ReportThirdParty=Listado cuentas de terceros
+DescThirdPartyReport=Consulte aquí el listado de clientes y proveedores y sus códigos contables
+
+ListAccounts=Listado de cuentas contables
+
+Pcgversion=Versión del plan
+Pcgtype=Tipo del plan
+Pcgsubtype=Subcuenta
+Accountparent=Padre de la cuenta
+
+DescVentilCustomer=Consulte aquí la contabilización anual de sus facturas a clientes
+TotalVente=Total facturación antes de impuestos
+TotalMarge=Total margen ventas
+DescVentilDoneCustomer=Consulte aquí las líneas de facturas a clientes y sus cuentas contables
+DescVentilTodoCustomer=Contabilice sus líneas de facturas a clientes con una cuenta contable
+ChangeAccount=Cambie la cuenta para las líneas seleccionadas a la cuenta:
+Vide=-
+DescVentilSupplier=Consulte aquí la contabilidad anual de sus facturas de proveedores
+DescVentilTodoSupplier=Contabilize sus líneas de facturas de proveedores
+DescVentilDoneSupplier=Consulte aquí la lista de facturas de proveedores y sus cuentas contables
+
+ValidateHistory=Validar automáticamente
+
+ErrorAccountancyCodeIsAlreadyUse=Error, no puede eliminar esta cuenta ya que está siendo usada
+MvtNotCorrectlyBalanced=Movimiento descuadrado. Debe = %s. Haber = %s
+FicheVentilation=Ficha contable
+GeneralLedgerIsWritten=Operations are written in the general ledger
+
+MvtNotCorrectlyBalanced=Movimiento descuadrado. Debe = %s. Haber = %s
+
+##Export Journal Feature
+ExportFormat=Formato de exportación
+Prefixname=Prefijo del archivo de exportación
+Separate=Separador de exportación
+Textframe=Ventana del valor del texto
+Headercol=Nombre de columna en cabecera del archivo
+Fieldname=Nombre del campo
+Headername=Nombre en la cabecera
+Type=Tipos de campos
+Param=Parámetros adicionales
+EnabledProduct=En producto
+EnabledTiers=En el tercero
+EnabledVat=Sujeto a IVA
+
+## Tools - Init accounting account on product / service
+InitAccountancy=Iniciar contabilidad
+InitAccountancyDesc=Esta página puede usarse para inicializar una cuenta contable en productos y servicios que no tienen definida cuenta contable de ventas y compras. Compruebe antes de que la configuración del módulo contabilidad está completa.
+Options=Opciones
+OptionModeProductSell=Modo ventas
+OptionModeProductBuy=Modo compras
+OptionModeProductSellDesc=Mostrar todos los productos sin cuenta contable definida para ventas.
+OptionModeProductBuyDesc=Mostrar todos los productos sin cuenta contable definida para compras.

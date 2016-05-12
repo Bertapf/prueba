@@ -1,0 +1,179 @@
+# Dolibarr language file - en_US - Accounting Expert
+ACCOUNTING_EXPORT_SEPARATORCSV=Ločilo za stolpce za izvozno datoteko
+ACCOUNTING_EXPORT_DATE=Format datuma za izvozno datoteko
+ACCOUNTING_EXPORT_PIECE=Export the number of piece
+ACCOUNTING_EXPORT_GLOBAL_ACCOUNT=Export with global account
+ACCOUNTING_EXPORT_LABEL=Export the label
+ACCOUNTING_EXPORT_AMOUNT=Export the amount
+ACCOUNTING_EXPORT_DEVISE=Export the devise
+Selectformat=Select the format for the file
+ACCOUNTING_EXPORT_PREFIX_SPEC=Specify the prefix for the file name
+
+Accounting=Računovodstvo
+Globalparameters=Globalni parametri
+Menuaccount=Računovodski izkazi
+Menuthirdpartyaccount=Thirdparty računi
+MenuTools=Orodja
+
+ConfigAccountingExpert=Konfiguracija modula računovodskega strokovnjaka
+Journaux=Revije
+JournalFinancial=Finančne revije
+Exports=Izvoz
+Export=Izvoz
+Modelcsv=Model izvoza
+OptionsDeactivatedForThisExportModel=Za ta izvozni model so opcije deaktivirane
+Selectmodelcsv=Izberite model izvoza
+Modelcsv_normal=Classic izvoz
+Modelcsv_CEGID=Izvoz v CEGID Expert
+BackToChartofaccounts=Prikaz kontnega plana
+
+Definechartofaccounts=Določite kontni plan
+Selectchartofaccounts=Izberite kontni plan
+Addanaccount=Dodaj računovodskega račun
+AccountAccounting=Računovodstvo račun
+AccountAccountingSuggest=Accounting account suggest
+Ventilation=Pregled
+
+MenuAccountancy=Accountancy
+CustomersVentilation=Pregled kupcev
+SuppliersVentilation=Pregled dobaviteljev
+TradeMargin=Trgovska marža
+Reports=Poročila
+ByCustomerInvoice=Z računov strank,
+NewAccount=Novi računovodski račun
+Create=Ustvari
+CreateMvts=Ustvari spremembo
+UpdateAccount=Sprememba obračunskega računa
+UpdateMvts=Sprememba pretoka
+WriteBookKeeping=Evidenčnih računov v glavno knjigo
+Bookkeeping=Glavna knjiga
+AccountBalance=Account balance
+
+AccountingVentilation=Pregled računov
+AccountingVentilationSupplier=Pregled računov dobaviteljev
+AccountingVentilationCustomer=Pregled računov kupcev
+
+CAHTF=Total purchase supplier before tax
+InvoiceLines=Linije računa, ki se prezračuje
+InvoiceLinesDone=Prezračevane linije računa
+IntoAccount=Ventilate in the accounting account
+
+Ventilate=Prezračiti
+VentilationAuto=Avtomatski pregled
+
+Processing=Processing
+EndProcessing=Konec obdelave
+AnyLineVentilate=Vrsticami prezračiti
+SelectedLines=Izbrane vrstice
+Lineofinvoice=Line računa
+VentilatedinAccount=Uspešno prezračen v obračunskem računu
+NotVentilatedinAccount=Ni prezračen v obračunskem računu
+
+ACCOUNTING_SEPARATORCSV=Ločilo za stolpce v izvozni datoteki
+
+ACCOUNTING_LIMIT_LIST_VENTILATION=Število elementov za pregled po straneh (največ priporočeno: 50)
+ACCOUNTING_LIST_SORT_VENTILATION_TODO=Začni sortiranje strani za pregled "potrebno pregledati" z najnovejšimi elementi
+ACCOUNTING_LIST_SORT_VENTILATION_DONE=Začni sortiranje strani za pregled "Pregledano" z najnovejšimi elementi
+
+AccountLength=Dolžina računovodstva računov prikazan v Dolibarrju
+AccountLengthDesc=Funkcija omogoča, da Predstavljati dolžino obračunskega računa z zamenjavo prostorov z ničelno sliki. Ta funkcija se dotakne le zaslon, ne spreminja računovodskih račune registrirane v Dolibarrju. Za izvoz, to funkcijo je potrebno, da so združljivi z določeno programsko opremo.
+ACCOUNTING_LENGTH_DESCRIPTION=Dolžina za prikaz opisa proizvodov in storitev v seznamih (najbolje = 50)
+ACCOUNTING_LENGTH_DESCRIPTION_ACCOUNT=Dolžina za prikaz oblike opisa računa proizvodov in storitev v seznamih (najbolje = 50)
+ACCOUNTING_LENGTH_GACCOUNT=Dolžina glavne knjige
+ACCOUNTING_LENGTH_AACCOUNT=Dolžina računih tretjih oseb
+
+ACCOUNTING_SELL_JOURNAL=Prodam revija
+ACCOUNTING_PURCHASE_JOURNAL=Nakup revij
+ACCOUNTING_MISCELLANEOUS_JOURNAL=Razno revija
+ACCOUNTING_EXPENSEREPORT_JOURNAL=Pregled stroškovnih poročil
+ACCOUNTING_SOCIAL_JOURNAL=Socialna revija
+
+ACCOUNTING_ACCOUNT_TRANSFER_CASH=Račun za prenos
+ACCOUNTING_ACCOUNT_SUSPENSE=Račun čakanja
+
+ACCOUNTING_PRODUCT_BUY_ACCOUNT=Računovodstvo račun privzeto za kupljene izdelke (če ni opredeljen v listu izdelkov)
+ACCOUNTING_PRODUCT_SOLD_ACCOUNT=Računovodstvo račun privzeto za prodanih proizvodov (če ni opredeljen v listu izdelkov)
+ACCOUNTING_SERVICE_BUY_ACCOUNT=Računovodstvo račun privzeto za kupljene storitve (če to ni opredeljeno v storitvenem stanja)
+ACCOUNTING_SERVICE_SOLD_ACCOUNT=Računovodstvo račun privzeto za prodanih storitev (če ni opredeljen v storitvenem stanja)
+
+Doctype=Vrsta dokumenta
+Docdate=Datum
+Docref=Reference
+Numerocompte=Račun
+Code_tiers=Thirdparty
+Labelcompte=Račun Label
+Sens=Sens
+Codejournal=Revija
+NumPiece=Piece number
+
+DelBookKeeping=Izbriši zapise v glavno knjigo
+
+DescSellsJournal=Sells revija
+DescPurchasesJournal=Nakupi revija
+FinanceJournal=Finance journal
+DescFinanceJournal=Finance journal including all the types of payments by bank account
+
+CashPayment=Gotovina Plačilo
+
+SupplierInvoicePayment=Plačilo dobavitelju računa
+CustomerInvoicePayment=Plačilo računa kupca
+
+ThirdPartyAccount=Thirdparty račun
+
+NewAccountingMvt=Novo gibanje
+NumMvts=Število gibanja
+ListeMvts=Seznam gibanja
+ErrorDebitCredit=Debetne in Credit ne more imeti vrednosti hkrati
+
+ReportThirdParty=Seznam thirdparty račun
+DescThirdPartyReport=Tukaj poglejte seznam kupcev in dobaviteljev in njihovih računovodskih računov
+
+ListAccounts=Seznam računovodskih računov
+
+Pcgversion=Različica načrta
+Pcgtype=Razred račun
+Pcgsubtype=Pod razred račun
+Accountparent=Root računa
+
+DescVentilCustomer=Tukaj poglejte letni pregled vaših računov kupcem
+TotalVente=Total turnover before tax
+TotalMarge=Skupaj prodajna marža
+DescVentilDoneCustomer=Tukaj poglejte seznam vrstic na računih za kupce in njihovih računovodskih računov
+DescVentilTodoCustomer=Prezračite svoje linije računa stranke z računovodsko račun
+ChangeAccount=Spremenite računovodsko račun linij, ki jih na račun izbranih:
+Vide=-
+DescVentilSupplier=Tukaj poglejte letni pregled računov vaših dobaviteljev
+DescVentilTodoSupplier=Prezračite svoje linije dobavitelja na računu z računovodsko račun
+DescVentilDoneSupplier=Tukaj poglejte seznam vrstic na računih dobaviteljev in njihovih računovodskih računov
+
+ValidateHistory=Potrditi Samodejno
+
+ErrorAccountancyCodeIsAlreadyUse=Napaka, ne morete izbrisati to računovodsko račun, ker se uporablja
+MvtNotCorrectlyBalanced=Mouvement not correctly balanced. Credit = %s. Debit = %s
+FicheVentilation=Kartica pregleda
+GeneralLedgerIsWritten=Operations are written in the general ledger
+
+MvtNotCorrectlyBalanced=Mouvement not correctly balanced. Credit = %s. Debit = %s
+
+##Export Journal Feature
+ExportFormat=Format of Export
+Prefixname=Prefix of export File
+Separate=Export separator
+Textframe=Frame of text value
+Headercol=Colname in header of file
+Fieldname=Name of Field
+Headername=Name in header
+Type=Type of fields
+Param=Additionnal parameters
+EnabledProduct=In Product
+EnabledTiers=In third party
+EnabledVat=In VAT
+
+## Tools - Init accounting account on product / service
+InitAccountancy=Init accountancy
+InitAccountancyDesc=This page can be used to initialize an accounting account on products and services that does not have accountancy account defined for sales and purchases. Check before that setup of module accountancy is complete.
+Options=Options
+OptionModeProductSell=Mode sales
+OptionModeProductBuy=Mode purchases
+OptionModeProductSellDesc=Show all products with no accounting account defined for sales.
+OptionModeProductBuyDesc=Show all products with no accounting account defined for purchases.

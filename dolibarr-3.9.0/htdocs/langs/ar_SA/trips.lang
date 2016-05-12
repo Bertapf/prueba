@@ -1,0 +1,103 @@
+# Dolibarr language file - Source file is en_US - trips
+ExpenseReport=تقرير حساب
+ExpenseReports=تقارير المصاريف
+Trip=تقرير حساب
+Trips=تقارير المصاريف
+TripsAndExpenses=تقارير النفقات
+TripsAndExpensesStatistics=إحصاءات تقارير المصاريف
+TripCard=حساب بطاقة تقرير
+AddTrip=إنشاء تقرير حساب
+ListOfTrips=قائمة التقارير حساب
+ListOfFees=قائمة الرسوم
+ShowTrip=عرض تقرير حساب
+NewTrip=تقرير حساب جديد
+CompanyVisited=الشركة / المؤسسة زارت
+Kilometers=كم
+FeesKilometersOrAmout=كم المبلغ أو
+DeleteTrip=حذف تقرير حساب
+ConfirmDeleteTrip=هل أنت متأكد أنك تريد حذف هذا التقرير حساب؟
+ListTripsAndExpenses=قائمة التقارير حساب
+ListToApprove=تنتظر الموافقة
+ExpensesArea=منطقة تقارير المصاريف
+SearchATripAndExpense=بحث تقرير مصروفات
+ClassifyRefunded=تصنيف "ردها"
+ExpenseReportWaitingForApproval=وقد قدم تقرير حساب جديد للموافقة عليها
+ExpenseReportWaitingForApprovalMessage=وقد تم تقديم تقرير حساب جديد وينتظر للموافقة عليها. - العضو:٪ ق - الفترة:٪ الصورة انقر هنا للتحقق من صحة:٪ الصورة
+TripId=تقرير حساب الهوية
+AnyOtherInThisListCanValidate=شخص إبلاغ عن التحقق من الصحة.
+TripSociete=شركة المعلومات
+TripSalarie=معلومات المستخدم
+TripNDF=المعلومات تقرير حساب
+PDFStandardExpenseReports=قالب قياسي لتوليد وثيقة PDF لتقرير حساب
+ExpenseReportLine=خط تقرير حساب
+TF_OTHER=أخرى
+TF_TRIP=Transportation
+TF_LUNCH=غداء
+TF_METRO=مترو
+TF_TRAIN=قطار
+TF_BUS=حافلة
+TF_CAR=سيارة
+TF_PEAGE=رسوم
+TF_ESSENCE=وقود
+TF_HOTEL=الفندق
+TF_TAXI=سيارة اجره
+
+ErrorDoubleDeclaration=لقد أعلن تقرير حساب آخر في نطاق تاريخ مماثل.
+AucuneNDF=لم ترد تقارير عن حساب تم العثور عليها ل هذه المعايير
+AucuneLigne=لا يوجد تقرير مصروفات تعلن بعد
+AddLine=إضافة سطر
+AddLineMini=إضافة
+
+Date_DEBUT=تاريخ بداية الفترة
+Date_FIN=تاريخ انتهاء الفترة
+ModePaiement=طريقة الدفع
+
+VALIDATOR=العضو المسؤول عن الموافقة
+VALIDOR=التي وافقت عليها
+AUTHOR=تم تسجيلها عن طريق
+AUTHORPAIEMENT=يتحملها
+REFUSEUR=نفتها
+CANCEL_USER=حذف من قبل
+
+MOTIF_REFUS=سبب
+MOTIF_CANCEL=سبب
+
+DATE_REFUS=تاريخ ينكر
+DATE_SAVE=تاريخ التحقق من الصحة
+DATE_VALIDE=تاريخ التحقق من الصحة
+DATE_CANCEL=تاريخ الإلغاء
+DATE_PAIEMENT=تاريخ الدفع
+
+TO_PAID=دفع
+BROUILLONNER=إعادة فتح
+SendToValid=أرسلت على موافقة
+ModifyInfoGen=تحرير
+ValidateAndSubmit=التحقق من صحة ويقدم للموافقة عليها
+ValidatedWaitingApproval=التحقق من صحة (في انتظار الموافقة)
+
+NOT_VALIDATOR=لا يسمح لك الموافقة على هذا التقرير حساب
+NOT_AUTHOR=أنت لست صاحب هذا التقرير حساب. إلغاء العملية.
+
+RefuseTrip=ينفي تقريرا للحساب
+ConfirmRefuseTrip=هل أنت متأكد أنك تريد أن تنكر هذا التقرير حساب؟
+
+ValideTrip=الموافقة على تقرير النفقات
+ConfirmValideTrip=هل أنت متأكد أنك تريد قبول هذا التقرير حساب؟
+
+PaidTrip=دفع تقرير مصروفات
+ConfirmPaidTrip=هل أنت متأكد أنك تريد تغيير وضع هذا التقرير لحساب "مدفوع"؟
+
+CancelTrip=إلغاء تقرير مصروفات
+ConfirmCancelTrip=هل أنت متأكد أنك تريد إلغاء هذا التقرير حساب؟
+
+BrouillonnerTrip=الرجوع تقرير نفقة لوضع "مسودة"
+ConfirmBrouillonnerTrip=هل أنت متأكد أنك تريد نقل هذا التقرير حساب لوضع "مسودة"؟
+
+SaveTrip=التحقق من صحة التقرير حساب
+ConfirmSaveTrip=هل أنت متأكد أنك تريد التحقق من صحة هذا التقرير حساب؟
+
+NoTripsToExportCSV=أي تقرير نفقة لتصدير لهذه الفترة.
+ExpenseReportPayment=دفع تقرير حساب
+
+ExpenseReportsToApprove=Expense reports to approve
+ExpenseReportsToPay=تقارير النفقات لدفع
