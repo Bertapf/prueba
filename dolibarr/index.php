@@ -1,3 +1,3 @@
 ﻿<?php
-header("Location: dolibarr/htdocs");
+header("Location: htdocs");
 ?>
