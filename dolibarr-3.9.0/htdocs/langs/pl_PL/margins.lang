@@ -1,0 +1,49 @@
+# Dolibarr language file - Source file is en_US - marges
+
+Margin=Marża
+Margins=Marże
+TotalMargin=Marża Total
+MarginOnProducts=Marża / Produkty
+MarginOnServices=Marża / Usługi
+MarginRate=Stopa marży
+MarkRate=Stawka Mark
+DisplayMarginRates=Stawki marży wyświetlacz
+DisplayMarkRates=Stawki znaków wyświetlanych
+InputPrice=Cena wejściowa
+margin=Zarządzanie zyskiem z marż
+margesSetup=Ustawienie zarządzania zyskiem z marż
+MarginDetails=Szczegóły marży
+ProductMargins=Marża produktu
+CustomerMargins=Marża klienta
+SalesRepresentativeMargins=Sprzedaż marże reprezentatywne
+UserMargins=Marginesy użytkownika
+ProductService=Produkt lub usługa
+AllProducts=Wszystkie produkty i usługi
+ChooseProduct/Service=Wybierz produkt lub usługę
+StartDate=Data rozpoczęcia
+EndDate=Data zakończenia
+Launch=Start
+ForceBuyingPriceIfNull=Wymuszaj cenę zakupu/cenę fabryczną jako cenę sprzedaży jeżeli ta nie jest zdefiniowana
+ForceBuyingPriceIfNullDetails=Jeżeli cena zakupu/koszt nie jest zdefiniowana, a ta opcja jest "ON", marża będzie równa 0 (cena zakupu/koszt = cena sprzedaży), w przeciwnym razie ("OFF"), marża będzie równa sugerowanej domyślnie.
+MARGIN_METHODE_FOR_DISCOUNT=Sposób na marżę dla globalnych rabatów
+UseDiscountAsProduct=Jako produkt
+UseDiscountAsService=Jako usługa
+UseDiscountOnTotal=Na podsumy
+MARGIN_METHODE_FOR_DISCOUNT_DETAILS=Określa, czy globalne rabatu jest traktowana jako produktu, usługi lub tylko na sumy częściowej obliczania marży.
+MARGIN_TYPE=Cena zakupu/cena fabryczna jest sugerowana jako domyślna do obliczenia marży
+MargeBrute=Raw marża
+MargeNette=Rentowność netto
+MargeType1=Marża na najlepszej cenie dostawcy
+MargeType2=Marża na średniej cenie ważonej
+MargeType3=Margin on Cost Price
+MARGIN_TYPE_DETAILS=Raw margin : Selling price - Buying price<br>Net margin : Selling price - Cost price
+MarginTypeDesc=* Margin on best buying price = Selling price - Best supplier price defined on product card<br>* Margin on Weighted Average Price (WAP) = Selling price - Product Weighted Average Price (WAP) or best supplier price if WAP not yet defined<br>* Margin on Cost price = Selling price - Cost price defined on product card or WAP if cost price not defined, or best supplier price if WAP not yet defined
+CostPrice=Cena fabryczna
+BuyingCost=Cena fabryczna
+UnitCharges=Koszty jednostkowe
+Charges=Opłaty
+AgentContactType=Przedstawiciel handlowy typ kontaktu
+AgentContactTypeDetails=Zdefiniować, jaki rodzaj (związane na fakturach) kontaktowe będą wykorzystywane do raportu marży na reprezentatywną sprzedaż
+rateMustBeNumeric=Stawka musi być wartością liczbową
+markRateShouldBeLesserThan100=Stopa znak powinien być niższy niż 100
+ShowMarginInfos=Pokaż informacje o marżę

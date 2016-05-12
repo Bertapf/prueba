@@ -1,0 +1,7 @@
+Module62000Name=INCOTERM
+Module62000Desc=إضافة ميزات لإدارة INCOTERM
+IncotermLabel=شروط التجارة الدولية
+IncotermSetupTitle1=خاصية
+IncotermSetupTitle2=الحالة
+IncotermSetup=إعداد وحدة INCOTERM
+IncotermFunctionDesc=تفعيل ميزة INCOTERM (مرشحين عن، اقتراح، طلب العملاء، فاتورة العميل، والشحن أجل المورد)
